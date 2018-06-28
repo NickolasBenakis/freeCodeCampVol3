@@ -1,0 +1,22 @@
+html {
+  font-size: 17px;
+}
+
+.paragraph {
+  border: 1px solid green;
+  padding: 15px 20px;
+  width: 50%;
+  font-size: 2rem;
+}
+
+.free {
+  padding: 15px 20px;
+  width: 50%;
+  box-sizing: border-box;
+  border: 1px solid red;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 3rem;
+}
